@@ -1,0 +1,19 @@
+# requirements.txt
+# REPOSITORY:
+#   https://github.com/DavidJLambert/Wikipedia-Table-Contactenator
+#
+# SUMMARY:
+#   Copies Wikipedia page, but with tables "joined" (as in SQL "join").
+#
+# VERSION:
+#   0.1.1
+#
+# AUTHOR:
+#   David J. Lambert
+#
+# DATE:
+#   July 10, 2020
+
+beautifulsoup4
+requests
+lxml
